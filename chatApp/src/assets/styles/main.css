@@ -1,0 +1,28 @@
+:root {
+  --dark-bg: #0f0f0f;             
+  --dark-secondary: #181818;       
+  --dark-own-msg: #2b2b2b;         
+  --dark-header: #181818;           
+  --dark-text: #ffffff;             
+  --dark-text-secondary: #aaaaaa;   
+  --dark-link: #5ebbf0;            
+  --dark-accent: #8774e1;          
+  --dark-input-bg: #2b2b2b;        
+  --dark-divider: #2b2b2b;         
+  --dark-hover: #2b2b2b;           
+  --theme-bg-color: #ffffff;
+  --theme-button-color: #2ea6ff;
+  --theme-button-text-color: #ffffff;
+  --theme-hint-color: #999999;
+  --theme-link-color: #2ea6ff;
+  --theme-link-hover-color: #3395ff;
+  --theme-button-hover-color: #2795e6;
+  --theme-text-color: #000000;
+  --theme-auth-input-line-color: #d1d1d1;
+  --theme-grey-color: #e6e6e6;
+  --theme-disabled-bg: #e6e6e6;
+  --theme-disabled-text: #999999;
+  --theme-message-box-shadow-color:rgba(0, 0, 0, 0.2);
+  --theme-message-border-color:rgba(94, 187, 240, 0.1);
+  --theme-message-other-user-color: rgba(135, 116, 225, 0.1);
+}
